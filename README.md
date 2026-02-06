@@ -1,8 +1,5 @@
-# Sales-Performance-KPI-
+# Sales-Performance-KPI
 This project analyzes sales data to uncover insights on revenue, profit, customer segments, product performance, and quarterly trends. Using Excel, I transformed raw data into a simple sales performance dashboard to support business decision-making.
-# Sales Performance Dashboard (Excel)
-
-This project analyzes sales data to uncover insights on revenue, profit, customer segments, and product performance.
 
 ## Tools Used
 - Microsoft Excel
