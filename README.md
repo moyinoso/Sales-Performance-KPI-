@@ -1,3 +1,4 @@
+<img width="1642" height="772" alt="Screenshot 2026-02-05 123334" src="https://github.com/user-attachments/assets/b6aa1dad-bd9e-40a9-a105-6448b8d34551" />
 # Sales-Performance-KPI
 This project analyzes sales data to uncover insights on revenue, profit, customer segments, product performance, and quarterly trends. Using Excel, I transformed raw data into a simple sales performance dashboard to support business decision-making.
 
